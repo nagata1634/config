@@ -1,0 +1,12 @@
+[submodule "bashrc.d"]
+	path = bashrc.d
+	url = https://github.com/nagata1634/bashrc.d.git
+[submodule "sway"]
+	path = sway
+	url = https://github.com/nagata1634/swayconfig.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/nagata1634/kickstart.nvim.git
+[submodule "fontconfig"]
+	path = fontconfig
+	url = git@github.com:nagata1634/fontconfig
