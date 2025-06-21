@@ -10,3 +10,9 @@
 [submodule "fontconfig"]
 	path = fontconfig
 	url = git@github.com:nagata1634/fontconfig
+[submodule "fish"]
+	path = fish
+	url = https://github.com/nagata1634/fish
+[submodule "environment.d"]
+	path = environment.d
+	url = git@github.com:nagata1634/environment.d
