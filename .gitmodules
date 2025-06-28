@@ -16,3 +16,6 @@
 [submodule "environment.d"]
 	path = environment.d
 	url = git@github.com:nagata1634/environment.d
+[submodule "foot"]
+	path = foot
+	url = git@github.com:nagata1634/foot
