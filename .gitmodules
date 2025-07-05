@@ -4,9 +4,6 @@
 [submodule "sway"]
 	path = sway
 	url = https://github.com/nagata1634/swayconfig.git
-[submodule "nvim"]
-	path = nvim
-	url = https://github.com/nagata1634/kickstart.nvim.git
 [submodule "fontconfig"]
 	path = fontconfig
 	url = git@github.com:nagata1634/fontconfig
@@ -19,3 +16,9 @@
 [submodule "foot"]
 	path = foot
 	url = git@github.com:nagata1634/foot
+[submodule "kickstart.nvim"]
+	path = kickstart.nvim
+	url = git@github.com:nagata1634/kickstart.nvim
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:nagata1634/kickstart.nvim
