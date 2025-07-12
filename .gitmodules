@@ -22,3 +22,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:nagata1634/kickstart.nvim
+[submodule "code.nvim"]
+	path = code.nvim
+	url = git@github.com:nagata1634/config.code.nvim
