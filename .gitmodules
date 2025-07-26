@@ -25,3 +25,6 @@
 [submodule "code.nvim"]
 	path = code.nvim
 	url = git@github.com:nagata1634/config.code.nvim
+[submodule "waybar"]
+	path = waybar
+	url = git@github.com:nagata1634/config.waybar
